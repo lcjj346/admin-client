@@ -1,5 +1,4 @@
-# Admin Client
-
+# Admin USER
 This is the frontend repository for the Admin-Client, built using React.js.
 
 ## Table of Contents
